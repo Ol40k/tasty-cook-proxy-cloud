@@ -1,0 +1,80 @@
+{
+  "common": {
+    "language": "Українська",
+    "recipePreviewAlt": "Recipe preview",
+    "likes": "Likes",
+    "or": "or",
+    "save": "Save",
+    "cancel": "Cancel",
+    "somethingWentWrong": "Something went wrong. Please try again later."
+  },
+  "authentication": {
+    "logIn": "Log in",
+    "emailLabel": "Your beautiful email:",
+    "username": "Your awesome username:",
+    "currentPasswordLabel": "Your current password:",
+    "currentPlaceholder": "Your current password",
+    "passwordLabel": "Password:",
+    "passwordPlaceholder": "Your password",
+    "passwordRepeatLabel": "Repeat password:",
+    "passwordRepeatPlaceholder": "Repeat your password",
+    "signUp": "Sign up",
+    "formDisclaimer": "Do not use your real data here. Do not leave any sensitive info here.",
+    "wrongEmail": "Please use a valid email address.",
+    "wrongPassword": "Password should have length more or equal to 6, 1 upper or lower case.",
+    "wrongRepeatPassword": "Passwords must match.",
+    "wrongUsername": "Username should have length more or equal to 3.",
+    "userExistsError": "User with such email already exists.",
+    "noUserError": "User with such email doesn't exist."
+  },
+  "mainBanner": {
+    "totalRecipes": "We have {{total}} recipes for you"
+  },
+  "cabinet": {
+    "savedRecipes": "Your saved recipes",
+    "createdRecipes": "Created recipes by you",
+    "recipeEditor": "Recipe editor"
+  },
+  "createdRecipes": {
+    "addBtn": "Add new Recipe",
+    "recipeTitle": "Title of your recipe:",
+    "recipeContent": "Inner content:",
+    "chooseCategory": "Choose category:",
+    "recipeTitlePlaceholder": "Fried russians"
+  },
+  "aboutUs": {
+    "ourTeam": "Our Team",
+    "drone": "Andrii F.",
+    "droneRole": "Back-end",
+    "droneDescription": "Placeholder",
+    "crow": "Dmytro V.",
+    "crowRole": "DevOps",
+    "crowDescription": "Placeholder",
+    "mobile": "Artem F.",
+    "mobileRole": "Mobile",
+    "mobileDescription": "Placeholder",
+    "front": "Yevhen S.",
+    "frontRole": "Front-end",
+    "frontDescription": "Placeholder"
+  },
+  "adminPanel": {
+    "allUsers": "All users",
+    "allRecipes": "All recipes",
+    "username": "Username: ",
+    "userEmail": "Email of a user: ",
+    "recipesByUser": "Recipes created by user: "
+  },
+  "footer": {
+    "explanation": "You are now on the site which is a thesis of four young, beautiful and enterprising guys. We are not responsible for your data left on this site. Your data will not be used for personal purposes."
+  },
+  "searchInList": {
+    "searchPlaceholder": "Just start typing..."
+  },
+  "header": {
+    "accountSettings": "Account settings",
+    "usernameField": "Your awesome username:"
+  },
+  "notifications": {
+    "loginToSave": "You need to log in to save recipes."
+  }
+}

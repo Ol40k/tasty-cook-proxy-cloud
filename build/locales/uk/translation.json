@@ -1,0 +1,54 @@
+{
+  "common": {
+    "language": "English",
+    "recipePreviewAlt": "Превью рецептів",
+    "likes": "Вподобайки",
+    "or": "або",
+    "save": "Зберегти",
+    "cancel": "Відмінити"
+  },
+  "authentication": {
+    "logIn": "Авторизуватись",
+    "emailLabel": "Ваша чудова електронна скринька:",
+    "passwordLabel": "Пароль:",
+    "passwordPlaceholder": "Ваш пароль",
+    "passwordRepeatLabel": "Повторіть пароль:",
+    "passwordRepeatPlaceholder": "Повторіть ваш пароль",
+    "signUp": "Зареєструватись",
+    "formDisclaimer": "Не використовуйте ваші реальні дані тут. Не залишайте ніякої особистої інформації.",
+    "wrongEmail": "Будь ласка використайте валідну адресу поштової скриньки.",
+    "wrongPassword": "Пароль має бути довшим або дорівнювати 6.",
+    "wrongRepeatPassword": "Паролі мають збігатись."
+  },
+  "mainBanner": {
+    "totalRecipes": "Ми маємо {{total}} рецептів для вас"
+  },
+  "cabinet": {
+    "savedRecipes": "Ваші збережені рецепти",
+    "createdRecipes": "Створені вами рецепти",
+    "recipeEditor": "Редактор рецептів"
+  },
+  "createdRecipes": {
+    "addBtn": "Додати новий рецепт",
+    "recipeTitle": "Назва вашого рецепту:",
+    "recipeContent": "Внутрішній зміст:"
+  },
+  "aboutUs": {
+    "ourTeam": "Наша команда",
+    "drone": "Андрій Ф.",
+    "droneRole": "Back-end",
+    "droneDescription": "Placeholder",
+    "crow": "Дмитро В.",
+    "crowRole": "DevOps",
+    "crowDescription": "Placeholder",
+    "mobile": "Артем Ф.",
+    "mobileRole": "Mobile",
+    "mobileDescription": "Placeholder",
+    "front": "Євген С.",
+    "frontRole": "Front-end",
+    "frontDescription": "Placeholder"
+  },
+  "footer": {
+    "explanation": "Ви зараз на сайті, який є дипломною роботою чотирьох молодих, красивих і ініціативних хлопців. Ми не несемо відповідальності за ваші дані, залишені на цьому сайті. Ваші дані не будуть використовуватися в особистих цілях."
+  }
+}
